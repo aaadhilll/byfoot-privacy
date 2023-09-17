@@ -20,7 +20,7 @@ This Services does not uses these “cookies” explicitly. However, the app may
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
 ### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  Device token asked for FCM
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
@@ -38,7 +38,10 @@ We value your trust in providing us your Personal Information, thus we are striv
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
 ### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. 
+
+### Authentication
+The applications and services you design and build with Google APIs must do more than provide value to users and businesses. We also require that they be secure and provide the appropriate level of privacy demanded by users. The following policies are part of the Google APIs Terms of Service. They apply to all developers who use OAuth 2.0, which includes OpenID Connect for authentication only. The policies below are a minimum set of requirements; we recommend that you take any additional steps necessary to ensure that your applications and systems are safe and secure.
 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
