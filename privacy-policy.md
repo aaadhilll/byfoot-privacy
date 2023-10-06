@@ -36,6 +36,13 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 The applications and services you design and build with Google APIs must do more than provide value to users. We also require that they be secure and provide the appropriate level of privacy demanded by users. The following policies are part of the Google APIs Terms of Service. They apply to all developers who use Google auth service. BYFOOT collect user data such as email address, name and uid are a minimum set of requirements for user registration and authentication.  We will never sell your personal info to third parties , and won't user your name or company in marketing statements without your permission
 
+### User data
+    The following type of user data is collected of App functionality, Developer communications, Fraud prevention, security, and compliance, Account management , this data don't share with any other third parties
+ 1. Name
+ 2. Email address
+ 3. User IDs
+ 4. Device id (optional)
+
 ### Delete user data/account
 
 When you delete BYFOOT account, we follow a deletion policy to make sure that your data is safely and completely removed from our servers or retained only in anonymized for
